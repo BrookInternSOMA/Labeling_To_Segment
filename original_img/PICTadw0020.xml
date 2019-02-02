@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset1</folder>
+	<filename>PICTadw0020.JPG</filename>
+	<path>C:\bgarage\medium_barcode_1d\BarcodeDatasets\Dataset1\PICTadw0020.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2976</width>
+		<height>2232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>barcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>903</xmin>
+			<ymin>192</ymin>
+			<xmax>2443</xmax>
+			<ymax>899</ymax>
+		</bndbox>
+	</object>
+</annotation>
